@@ -7,4 +7,4 @@ It's second commit
 
 "Объединение зафиксированных изменений"
 
-new Changes
+Изменени с git stash
