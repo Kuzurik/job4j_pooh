@@ -6,3 +6,5 @@ It's first commit
 It's second commit
 
 "Объединение зафиксированных изменений"
+
+Изменени с git stash
