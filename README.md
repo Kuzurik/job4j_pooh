@@ -8,3 +8,4 @@ It's second commit
 "Объединение зафиксированных изменений"
 
 Изменени с git stash
+hotfix
